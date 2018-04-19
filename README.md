@@ -1,4 +1,5 @@
-flask-video-streaming
-=====================
+# Iris Camera Server
 
-Supporting code for my article [video streaming with Flask](http://blog.miguelgrinberg.com/post/video-streaming-with-flask) and its follow-up [Flask Video Streaming Revisited](http://blog.miguelgrinberg.com/post/flask-video-streaming-revisited).
+Iris camera server with facial recognition. Based on [flask-video-streaming](https://github.com/miguelgrinberg/flask-video-streaming) by [Miguel Grinberg](https://github.com/miguelgrinberg).
+
+This can work on it's own much like the original but is intended to be used with [Iris](https://github.com/DylanGore/Iris).
